@@ -1,2 +1,2 @@
 # Multi-Model-Training-on-CIFAR-Dataset
-Multi-Model Training and Analysis on CIFAR Dataset
+In this project, I trained Variational Autoencoders (VAE), Convolutional Neural Networks (CNN), Deep Convolutional GANs (DCGAN), and Minibatch GANs on the CIFAR dataset. I explored the impact of the VAE’s beta parameter on reconstruction accuracy and latent space smoothness. Additionally, I investigated the VAE’s performance in classification tasks, demonstrating its versatility and potential for various applications.
